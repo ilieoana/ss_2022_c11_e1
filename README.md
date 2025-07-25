@@ -10,8 +10,7 @@ YouTube.
 - **Author:** Laur Spilca
 - **Series:** Spring Security Fundamentals
 - **Lesson:** 11 - The OAuth2 Authorization Server
-- **Link:
-  ** [Watch on YouTube](https://www.youtube.com/watch?v=N0LiMIGCDgg)
+- **Link:** [Watch on YouTube](https://www.youtube.com/watch?v=N0LiMIGCDgg)
 
 ## 🛠️ What I Did
 
