@@ -1,3 +1,13 @@
 spring:
   application:
     name: "ss_2022_c11_e1"
+
+logging:
+  level:
+    org.springframework.security: DEBUG
+    org.springframework.security.oauth2: DEBUG
+    org.springframework.web: DEBUG
+
+
+
+
